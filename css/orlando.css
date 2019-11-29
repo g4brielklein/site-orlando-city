@@ -97,15 +97,6 @@ header #logotipo {
 	position: absolute;
 	top: 20px;
 }
-#menu {
-	margin: 26px 0;
-}
-#menu {
-	display: inline-block;
-	font-family: "OpenSans";
-}
-#menu li a {
-	color: #FFF;
-	font-size: 16px;
-	padding: 10px 25px;
+#menu li {
+	display: inline;
 }
